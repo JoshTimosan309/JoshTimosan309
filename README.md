@@ -9,7 +9,7 @@
 ### **Tools & Frameworks:**  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 ## 📊 GitHub Stats  
 ![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshtimosan&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtimosan&layout=compact&theme=tokyonight)  
